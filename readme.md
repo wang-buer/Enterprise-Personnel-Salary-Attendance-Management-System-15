@@ -9,7 +9,11 @@
 管理员：员工管理、部门管理、考勤管理。请假管理、加班管理、工资管理、培训管理等
 
 员工：打卡、请假、加班申请、查看各种信息、招聘计划管理等
+## 获取方式
 
+扫描下方，回复 “**员工** ” ，以获取完整版的项目代码。
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
 ## 2、项目技术
 
