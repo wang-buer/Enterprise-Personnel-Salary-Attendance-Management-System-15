@@ -9,11 +9,7 @@
 管理员：员工管理、部门管理、考勤管理。请假管理、加班管理、工资管理、培训管理等
 
 员工：打卡、请假、加班申请、查看各种信息、招聘计划管理等
-## 获取方式
 
-扫描下方，回复 “**员工** ” ，以获取完整版的项目代码。
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
 ## 2、项目技术
 
@@ -35,47 +31,43 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/12/6DSEY5r9Wmfkbc1.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311152213256.jpg)
 
 ### 4.2 员工模块
 
-![员工-打卡](https://s2.loli.net/2023/10/12/dwGBtzi2msfR5Up.png)
+![员工-打卡](https://www.codeshop.fun/Typora-Images/202311152213219.png)
 
-![员工-请假](https://s2.loli.net/2023/10/12/HSNKRzVF9JruyGC.png)
+![员工-加班申请](https://www.codeshop.fun/Typora-Images/202311152213227.jpg)
 
-![员工-加班申请](https://s2.loli.net/2023/10/12/nAjx658KisPHBmD.jpg)
+![员工-请假](https://www.codeshop.fun/Typora-Images/202311152213242.png)
 
 ### 4.3 管理员模块
 
-![管理员-员工管理](https://s2.loli.net/2023/10/12/bYsIzQDESPCvucB.jpg)
+![管理员-部门管理](https://www.codeshop.fun/Typora-Images/202311152213171.jpg)
 
-![管理员-发放工资](https://s2.loli.net/2023/10/12/a7TJME5YRdh9ZiV.jpg)
+![管理员-发放工资](https://www.codeshop.fun/Typora-Images/202311152213189.jpg)
 
-![管理员-考勤管理](https://s2.loli.net/2023/10/12/npc3HJwjvoI5VDS.jpg)
+![管理员-工资管理](https://www.codeshop.fun/Typora-Images/202311152213221.jpg)
 
-![管理员-部门管理](https://s2.loli.net/2023/10/12/Gc3odfjsn7N8wV6.jpg)
+![管理员-加班申请管理](https://www.codeshop.fun/Typora-Images/202311152213200.jpg)
 
-![管理员-请假管理](https://s2.loli.net/2023/10/12/dtMbq59BCgzTcGf.jpg)
+![管理员-考勤管理](https://www.codeshop.fun/Typora-Images/202311152213242.jpg)
 
-![管理员-加班申请管理](https://s2.loli.net/2023/10/12/Cm2eRAJ5ESfQvdx.jpg)
+![管理员-培训管理](https://www.codeshop.fun/Typora-Images/202311152213259.jpg)
 
-![管理员-招聘计划管理](https://s2.loli.net/2023/10/12/9OvKQFnRTBI1LUy.jpg)
+![管理员-请假管理](https://www.codeshop.fun/Typora-Images/202311152213675.jpg)
 
-![管理员-工资管理](https://s2.loli.net/2023/10/12/iAjGEYTLwbxaQpr.jpg)
+![管理员-员工管理](https://www.codeshop.fun/Typora-Images/202311152213728.jpg)
 
-![管理员-培训管理](https://s2.loli.net/2023/10/12/yw4Gru8YLZOAHa9.jpg)
+![管理员-招聘计划管理](https://www.codeshop.fun/Typora-Images/202311152213828.jpg)
 
 ### 4.4 文档目录
 
-![文档目录](https://s2.loli.net/2023/10/12/9P5n8XLAScgzGYs.jpg)
-
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：员工
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202311152213525.jpg)
 
 
+## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**员工**，查看导入教程视频、sql脚本和源码等
 
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
